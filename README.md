@@ -1,0 +1,2 @@
+# BAN612_DataAnalytics_Fall18_Project
+The project involved collecting job posting data from websites using API and then post processing the data. Based on the specific job posting chosen by each student, multiple research questions were to be formulated and answered using the data collected. The job posting chosen by me was "Data Scientist" and the geographical location was limited to within the United States.
